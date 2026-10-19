@@ -1,0 +1,59 @@
+{
+ "articles": [
+  {
+   "slug": "scp-049",
+   "type": "scp",
+   "title": "SCP-049",
+   "sous_titre": "Le Docteur de la Peste",
+   "classe": "Euclide",
+   "auteur": "Gabriel Jade",
+   "source": "https://fondationscp.wikidot.com/scp-049",
+   "resume": "Une entité humanoïde convaincue de soigner une « peste » que personne d’autre ne perçoit.",
+   "corps": "**Résumé (exemple de gabarit).** SCP-049 est une entité portant le costume d’un médecin de la peste, qui prétend guérir un mal invisible aux autres et agit en conséquence.\n\n> Remplacez ce résumé par le texte intégral, avec crédits."
+  },
+  {
+   "slug": "scp-096",
+   "type": "scp",
+   "title": "SCP-096",
+   "sous_titre": "Le Timide",
+   "classe": "Euclide",
+   "auteur": "Dr Dan",
+   "source": "https://fondationscp.wikidot.com/scp-096",
+   "resume": "Une entité qui se déchaîne lorsqu’on voit son visage.",
+   "corps": "**Résumé (exemple de gabarit).** SCP-096 est un humanoïde passif jusqu’à ce que son visage soit vu ; il poursuit alors la personne concernée sans relâche.\n\n> Remplacez ce résumé par le texte intégral, avec crédits."
+  },
+  {
+   "slug": "scp-173",
+   "type": "scp",
+   "title": "SCP-173",
+   "sous_titre": "La Sculpture – Original",
+   "classe": "Euclide",
+   "auteur": "Moto42",
+   "source": "https://fondationscp.wikidot.com/scp-173",
+   "resume": "Une statue animée qui bouge dès qu’on cesse de la regarder.",
+   "corps": "**Résumé (exemple de gabarit).** SCP-173 est une sculpture dont la particularité est de se déplacer extrêmement vite dès qu’aucun contact visuel direct n’est maintenu avec elle.\n\n**Confinement.** Le sujet est gardé dans une cellule verrouillée ; le personnel y entre à plusieurs, en gardant toujours au moins un observateur les yeux ouverts.\n\n> Remplacez ce résumé par le texte intégral de la traduction officielle, en conservant les crédits."
+  }
+ ],
+ "pages": {
+  "apropos": {
+   "titre": "À propos de la Fondation",
+   "corps": "La Fondation SCP est une organisation fictive dont la mission tient en trois mots : **Sécuriser, Contenir, Protéger**. Elle recherche, isole et étudie les objets, entités et phénomènes anormaux (les « SCP ») afin de protéger la population.\n\nCe projet est un univers de fiction collaboratif : chaque rapport est écrit, vérifié et traduit par des bénévoles."
+  },
+  "classes": {
+   "titre": "Classification SCP",
+   "corps": "## Classes de confinement\n\n- **Sûr** : l’objet est bien compris et facile à contenir.\n- **Euclide** : le comportement est moins prévisible ou le confinement exige des mesures actives.\n- **Keter** : l’objet est très difficile à contenir de façon fiable.\n- **Thaumiel** : l’objet est utilisé par la Fondation pour contenir d’autres anomalies.\n- **Apollyon** : une fin de monde que l’on ne peut pas empêcher.\n\nD’autres classes existent (Neutralisé, Explicable, Archaïque…). Voir la [page de référence](https://fondationscp.wikidot.com/object-classes)."
+  },
+  "accreditations": {
+   "titre": "Sécurité et accréditations",
+   "corps": "L’accès aux dossiers dépend d’un niveau d’accréditation, du plus bas au plus élevé. Le détail officiel se trouve sur la [page de référence](https://fondationscp.wikidot.com/security-clearance-levels)."
+  },
+  "contribuer": {
+   "titre": "Contribuer",
+   "corps": "1. Rejoignez le site officiel : [inscription](https://fondationscp.wikidot.com/system:join).\n\nConsultez le [guide d’écriture](https://fondationscp.wikidot.com/guide-ecriture), le [guide de traduction](https://fondationscp.wikidot.com/guide-de-traduction) et les [règles du site](https://fondationscp.wikidot.com/guide-for-newbies).\n\nPour ajouter un article à ce site : `python tools/add_article.py` (voir le README)."
+  },
+  "canons": {
+   "titre": "Séries et canons",
+   "corps": "Les séries et canons sont des univers partagés par plusieurs auteurs. Exemples francophones : *Après Aleph*, *Désert Humain*, *Retour à l’Anormal*, *Sous le Monde*.\n\nListe complète : [centre des canons FR](https://fondationscp.wikidot.com/centre-des-canons-francais). Ajoutez ici vos propres pages en éditant `pages` dans `data/articles.json`."
+  }
+ }
+}
